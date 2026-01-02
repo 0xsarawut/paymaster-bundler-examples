@@ -1,4 +1,4 @@
-# [Coinbase Developer Platform Paymaster & Bundler Examples](https://github.com/coinbase/paymaster-bundler-examples)
+# [Coinbase Developer Platform Paymaster & Bundler  Examples](https://github.com/coinbase/paymaster-bundler-examples)
 
 ✨ Looking for frontend examples? Be sure to check out our **[Wagmi](https://github.com/coinbase/paymaster-bundler-examples/tree/master/examples/wagmi)** example for inspiration and guidance! ✨
 
@@ -117,3 +117,4 @@ Waiting for transaction...
 ### 7. Play around with our demo app
 
 If you'd like to see an example of an app sponsoring NFT mints in action, check out our demo app [here](https://paymaster-demo-app.vercel.app/).
+https://github.com/coinbase/paymaster-bundler-examples/blob/master/examples%2Fwagmi%2Fsrc%2Fcomponents%2FCoinbaseWalletLogo.tsx
